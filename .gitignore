@@ -1,0 +1,16 @@
+ # Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# Windows OS files
+Thumbs.db
+Desktop.ini
+
+# macOS OS files
+.DS_Store
+
+# Linux OS files
+*~
+
