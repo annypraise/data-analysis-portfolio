@@ -1,0 +1,301 @@
+﻿Order_ID,Order_Date,Customer_Name,Product,Category,City_State,Region,Sales_Rep,Quantity,Unit_Price,Total_Sales
+ORD0001,21/05/2026,Mary James,Smartphone,Electronics,"Lagos, Lagos",South South,Tunde,4,320000,1280000
+ORD0002,05/08/2026,John Okafor,Microwave,Home Appliances,"Abuja, FCT",South East,Musa,1,180000,180000
+ORD0003,14/01/2026,Grace Peter,Office Chair,Furniture,"Minna, Niger",South East,Musa,4,100000,400000
+ORD0004,04/01/2026,Daniel Eze,Blender,Home Appliances,"Uyo, Akwa Ibom",North East,Chika,3,80500,241500
+ORD0005,22/02/2026,John Okafor,Headphones,Electronics,"Makurdi, Benue",North East,David,2,47500,95000
+ORD0006,23/01/2026,John Okafor,Notebook,Stationery,"Uyo, Akwa Ibom",North East,Amina,8,7500,60000
+ORD0007,05/07/2026,Aisha Bello,Smartphone,Electronics,"Minna, Niger",North East,Musa,4,315000,1260000
+ORD0008,21/02/2026,Ibrahim Ali,Desk,Furniture,"Abuja, FCT",North West,David,7,150000,1050000
+ORD0009,2026-04-18,Paul Obi,Headphones,Electronics,"Enugu, Enugu",North East,Grace,5,40000,200000
+ORD0010,25/08/2026,Esther John,Microwave,Home Appliances,"Makurdi, Benue",North West,Musa,7,185000,1295000
+ORD0011,17/01/2026,Fatima Musa,Notebook,Stationery," Lagos, Lagos ",North West,Tunde,6,5000,30000
+ORD0012,11/06/2026,Grace Peter,Office Chair,Furniture,"Uyo, Akwa Ibom",South South,Peter,4,97500,390000
+ORD0013,07/05/2026,Grace Peter,Headphones,ELECTRONICS,"Kano, Kano",North West,Amina,5,50000,250000
+ORD0014,"Sep 18, 2026",Joy Emmanuel,Notebook,Stationery,"Makurdi, Benue",North West,Ada,8,-2500,-20000
+ORD0015,23/03/2026,John Okafor,Smartphone,Electronics,"Jos, Plateau",South South,Amina,7,325000,2275000
+ORD0016,28/09/2026,Hassan Ibrahim,Printer Paper,Stationery,"Uyo, Akwa Ibom",South West,Ada,5,13500,67500
+ORD0017,24/06/2026,Grace Peter,Smartphone,electronics,"Minna, Niger",North East,Grace,2,320000,640000
+ORD0018,2026-05-15,John Okafor,Blender,Home Appliances,"Lagos, Lagos",South South,Chika,3,83000,249000
+ORD0019,20/03/2026,Ruth Sunday,Microwave,  Home Appliances  ,"Uyo, Akwa Ibom",North West,Ada,6,185000,1110000
+ORD0020,10/01/2026,Hassan Ibrahim,School Bag,Accessories,"Enugu, Enugu",South West,Chika,2,18000,36000
+ORD0021,18/10/2026,Michael David,Office Chair,Furniture,"Lagos, Lagos",North West,Peter,2,90000,180000
+ORD0022,07/03/2026,Mary James,Smartphone,Electronics," Minna, Niger ",North West,Chika,8,325000,2600000
+ORD0023,19/04/2026,Grace Peter,Microwave,Home Appliances,"Uyo, Akwa Ibom",South West,David,4,185000,740000
+ORD0024,03/03/2026,John Okafor,Blender,Home Appliances,"Minna, Niger",South West,David,4,78000,312000
+ORD0025,28/04/2026,John Okafor,Laptop,Electronics,"Uyo, Akwa Ibom",South East,Ada,4,645000,2580000
+ORD0026,19/06/2026,Samuel Ade,Office Chair,FURNITURE,"Abuja, FCT",North Central,Chika,2,100000,200000
+ORD0027,2026-03-09,Joy Emmanuel,Blender,Home Appliances,"Makurdi, Benue",South East,Peter,8,78000,624000
+ORD0028,"Feb 19, 2026",Grace Peter,Printer Paper,Stationery,"Makurdi, Benue",North Central,Amina,7,8500,59500
+ORD0029,20/02/2026,Michael David,Blender,Home Appliances,"Lagos, Lagos",South South,David,1,80500,80500
+ORD0030,08/04/2026,Grace Peter,Smartphone,Electronics,"Makurdi, Benue",North West,Grace,8,320000,2560000
+ORD0031,08/02/2026,John Okafor,Desk,Furniture,"Kaduna, Kaduna",North West,Ada,8,155000,1240000
+ORD0032,02/05/2026,Ibrahim Ali,Microwave,Home Appliances,"Lagos, Lagos",North Central,Peter,3,187500,562500
+ORD0033,26/03/2026,Grace Peter,Office Chair,Furniture," Ibadan, Oyo ",North Central,Chika,7,90000,630000
+ORD0034,12/10/2026,Samuel Ade,Blender,home appliances,"Kano, Kano",South West,Chika,8,78000,624000
+ORD0035,05/10/2026,Aisha Bello,Office Chair,Furniture,"Lagos, Lagos",South East,Ada,1,95000,95000
+ORD0036,2026-09-29,Ruth Sunday,School Bag,Accessories,"Kaduna, Kaduna",South East,Tunde,3,13000,39000
+ORD0037,04/02/2026,John Okafor,Headphones,Electronics,"Abuja, FCT",South East,Musa,4,47500,190000
+ORD0038,11/02/2026,Paul Obi,School Bag,  Accessories  ,"Uyo, Akwa Ibom",North Central,David,7,23000,161000
+ORD0039,10/06/2026,Grace Peter,Desk,FURNITURE,"Makurdi, Benue",South South,Grace,4,150000,600000
+ORD0040,07/02/2026,Paul Obi,Desk,Furniture,"Kaduna, Kaduna",North East,Tunde,1,152500,152500
+ORD0041,17/09/2026,Daniel Eze,Smartphone,Electronics,"Minna, Niger",North West,Tunde,5,320000,1600000
+ORD0042,"Mar 22, 2026",Michael David,Office Chair,Furniture,"Enugu, Enugu",North East,Chika,8,100000,800000
+ORD0043,11/10/2026,Mary James,School Bag,Accessories,"Minna, Niger",North Central,Chika,5,13000,65000
+ORD0044,11/10/2026,Fatima Musa,Smartphone,Electronics," Abuja, FCT ",South South,Musa,3,320000,960000
+ORD0045,2026-05-16,Hassan Ibrahim,Notebook,Stationery,"Makurdi, Benue",South South,Ada,8,2500,20000
+ORD0046,23/01/2026,Joy Emmanuel,Smartphone,Electronics,"Ibadan, Oyo",North East,Grace,1,320000,320000
+ORD0047,15/08/2026,Aisha Bello,Desk,Furniture,"Jos, Plateau",South South,Tunde,7,155000,1085000
+ORD0048,19/01/2026,Ruth Sunday,Smartphone,Electronics,"Jos, Plateau",South East,Grace,6,325000,1950000
+ORD0049,07/06/2026,Daniel Eze,Printer Paper,Stationery,"Jos, Plateau",North Central,Musa,6,3500,21000
+ORD0050,14/10/2026,Michael David,Office Chair,Furniture,"Abuja, FCT",North East,Grace,7,100000,700000
+ORD0051,31/07/2026,Michael David,Office Chair,furniture,"Jos, Plateau",North West,David,1,95000,95000
+ORD0052,23/03/2026,Hassan Ibrahim,Printer Paper,STATIONERY,"Makurdi, Benue",North East,Ada,2,11000,22000
+ORD0053,24/08/2026,Hassan Ibrahim,Blender,Home Appliances,"Makurdi, Benue",North West,Musa,6,78000,468000
+ORD0054,2026-04-09,Fatima Musa,Office Chair,Furniture,"Lagos, Lagos",South South,Tunde,7,95000,665000
+ORD0055,18/09/2026,Daniel Eze,Desk,Furniture," Enugu, Enugu ",South South,Ada,7,155000,1085000
+ORD0056,"Oct 25, 2026",John Okafor,Smartphone,Electronics,"Kano, Kano",North West,Amina,5,315000,1575000
+ORD0057,19/09/2026,Paul Obi,Notebook,  Stationery  ,"Enugu, Enugu",South West,Musa,2,5000,10000
+ORD0058,12/08/2026,Joy Emmanuel,Desk,Furniture,"Lagos, Lagos",South South,Musa,1,155000,155000
+ORD0059,19/06/2026,Michael David,Notebook,Stationery,"Ibadan, Oyo",North Central,Chika,6,-2500,-15000
+ORD0060,29/07/2026,Michael David,Microwave,Home Appliances,"Kano, Kano",South South,Chika,6,187500,1125000
+ORD0061,04/08/2026,Paul Obi,Microwave,Home Appliances,"Jos, Plateau",North West,Chika,7,185000,1295000
+ORD0062,05/06/2026,Grace Peter,Printer Paper,Stationery,"Minna, Niger",North Central,David,5,8500,42500
+ORD0063,2026-04-20,Esther John,Blender,Home Appliances,"Kaduna, Kaduna",South West,Tunde,8,78000,624000
+ORD0064,21/06/2026,Esther John,Desk,Furniture,"Minna, Niger",South South,Chika,2,150000,300000
+ORD0065,13/01/2026,Ibrahim Ali,Office Chair,FURNITURE,"Makurdi, Benue",North West,Tunde,1,95000,95000
+ORD0066,22/10/2026,Ibrahim Ali,Blender,Home Appliances," Ibadan, Oyo ",South South,Amina,4,80500,322000
+ORD0067,03/01/2026,Samuel Ade,Office Chair,Furniture,"Jos, Plateau",South South,Grace,2,97500,195000
+ORD0068,13/10/2026,Ibrahim Ali,Microwave,home appliances,"Kaduna, Kaduna",North Central,Grace,4,180000,720000
+ORD0069,12/06/2026,Hassan Ibrahim,Blender,Home Appliances,"Minna, Niger",South East,Amina,8,83000,664000
+ORD0070,"Sep 01, 2026",Joy Emmanuel,Microwave,Home Appliances,"Kaduna, Kaduna",North West,Musa,8,185000,1480000
+ORD0071,03/05/2026,John Okafor,Desk,Furniture,"Minna, Niger",South West,Chika,5,152500,762500
+ORD0072,2026-06-13,Mary James,Office Chair,Furniture,"Kano, Kano",North East,Musa,2,95000,190000
+ORD0073,20/04/2026,Grace Peter,Printer Paper,Stationery,"Jos, Plateau",South South,David,2,11000,22000
+ORD0074,01/02/2026,Grace Peter,Microwave,Home Appliances,"Kaduna, Kaduna",South West,Ada,4,187500,750000
+ORD0075,04/01/2026,Joy Emmanuel,School Bag,Accessories,"Ibadan, Oyo",South West,Amina,6,18000,108000
+ORD0076,07/10/2026,Samuel Ade,Printer Paper,  Stationery  ,"Minna, Niger",South South,Chika,4,11000,44000
+ORD0077,19/07/2026,Michael David,Printer Paper,Stationery," Kaduna, Kaduna ",North Central,Grace,6,11000,66000
+ORD0078,01/10/2026,Paul Obi,Blender,HOME APPLIANCES,"Jos, Plateau",South East,Ada,1,80500,80500
+ORD0079,25/08/2026,Fatima Musa,Smartphone,Electronics,"Ibadan, Oyo",North West,Amina,3,315000,945000
+ORD0080,17/06/2026,Fatima Musa,Notebook,Stationery,"Makurdi, Benue",South West,Amina,6,5000,30000
+ORD0081,2026-01-10,Samuel Ade,Desk,Furniture,"Abuja, FCT",South West,Tunde,1,150000,150000
+ORD0082,13/04/2026,Mary James,Laptop,Electronics,"Lagos, Lagos",North West,Musa,1,655000,655000
+ORD0083,28/02/2026,Michael David,Headphones,Electronics,"Kaduna, Kaduna",South South,Chika,4,47500,190000
+ORD0084,"Feb 28, 2026",John Okafor,Notebook,Stationery,"Jos, Plateau",South East,Ada,3,2500,7500
+ORD0085,12/07/2026,John Okafor,Desk,furniture,"Uyo, Akwa Ibom",South South,Musa,7,150000,1050000
+ORD0086,03/03/2026,Ruth Sunday,Smartphone,Electronics,"Kano, Kano",South South,Amina,1,320000,320000
+ORD0087,24/06/2026,Hassan Ibrahim,Notebook,Stationery,"Abuja, FCT",South East,Peter,1,5000,5000
+ORD0088,24/08/2026,Mary James,Smartphone,Electronics," Ibadan, Oyo ",North East,Chika,3,322500,967500
+ORD0089,27/08/2026,Fatima Musa,School Bag,Accessories,"Minna, Niger",South West,David,7,23000,161000
+ORD0090,2026-08-19,Paul Obi,Office Chair,Furniture,"Abuja, FCT",North East,Amina,4,97500,390000
+ORD0091,16/06/2026,Samuel Ade,Notebook,STATIONERY,"Lagos, Lagos",South West,David,3,5000,15000
+ORD0092,22/05/2026,Samuel Ade,Desk,Furniture,"Enugu, Enugu",North East,Tunde,1,155000,155000
+ORD0093,12/10/2026,Esther John,Office Chair,Furniture,"Ibadan, Oyo",South West,Peter,4,97500,390000
+ORD0094,31/05/2026,Michael David,Blender,Home Appliances,"Lagos, Lagos",North Central,Musa,4,80500,322000
+ORD0095,31/08/2026,Michael David,Desk,  Furniture  ,"Uyo, Akwa Ibom",North East,David,6,152500,915000
+ORD0096,06/06/2026,John Okafor,Notebook,Stationery,"Kaduna, Kaduna",North East,Musa,5,2500,12500
+ORD0097,02/10/2026,Samuel Ade,Notebook,Stationery,"Abuja, FCT",South South,Peter,3,2500,7500
+ORD0098,"May 25, 2026",Fatima Musa,Desk,Furniture,"Uyo, Akwa Ibom",South East,Musa,2,150000,300000
+ORD0099,2026-01-08,Aisha Bello,Notebook,Stationery," Jos, Plateau ",North East,Ada,3,2500,7500
+ORD0100,06/03/2026,Hassan Ibrahim,Microwave,Home Appliances,"Kano, Kano",South South,Ada,8,180000,1440000
+ORD0101,03/09/2026,Mary James,School Bag,Accessories,"Kano, Kano",South West,Ada,8,18000,144000
+ORD0102,03/02/2026,John Okafor,Desk,furniture,"Kaduna, Kaduna",North Central,Ada,7,152500,1067500
+ORD0103,05/06/2026,John Okafor,Headphones,Electronics,"Jos, Plateau",South East,Amina,2,45000,90000
+ORD0104,26/04/2026,Ibrahim Ali,School Bag,ACCESSORIES,"Uyo, Akwa Ibom",South East,Chika,7,20500,143500
+ORD0105,19/10/2026,Michael David,School Bag,Accessories,"Ibadan, Oyo",North East,Tunde,1,23000,23000
+ORD0106,11/02/2026,Mary James,Office Chair,Furniture,"Makurdi, Benue",North East,Tunde,3,95000,285000
+ORD0107,19/08/2026,Aisha Bello,Headphones,Electronics,"Lagos, Lagos",South West,Musa,8,45000,360000
+ORD0108,2026-08-21,Fatima Musa,Desk,Furniture,"Kano, Kano",South South,Musa,2,150000,300000
+ORD0109,26/04/2026,Hassan Ibrahim,Printer Paper,Stationery,"Abuja, FCT",South East,Grace,3,8500,25500
+ORD0110,07/06/2026,John Okafor,Smartphone,Electronics," Lagos, Lagos ",North West,Peter,5,322500,1612500
+ORD0111,14/09/2026,John Okafor,Desk,Furniture,"Ibadan, Oyo",North East,Ada,8,152500,1220000
+ORD0112,"May 09, 2026",Samuel Ade,Printer Paper,Stationery,"Enugu, Enugu",South East,Ada,1,3500,3500
+ORD0113,31/03/2026,Esther John,Desk,Furniture,"Uyo, Akwa Ibom",North Central,Peter,8,155000,1240000
+ORD0114,12/08/2026,Ibrahim Ali,Desk,  Furniture  ,"Jos, Plateau",South East,David,8,145000,1160000
+ORD0115,23/02/2026,Grace Peter,Printer Paper,Stationery,"Enugu, Enugu",North East,Peter,3,8500,25500
+ORD0116,19/01/2026,Daniel Eze,Desk,Furniture,"Ibadan, Oyo",South East,Chika,8,145000,1160000
+ORD0117,2026-09-21,Ibrahim Ali,Notebook,STATIONERY,"Abuja, FCT",South West,Amina,1,7500,7500
+ORD0118,05/07/2026,Joy Emmanuel,Laptop,Electronics,"Makurdi, Benue",South East,Ada,8,652500,5220000
+ORD0119,09/03/2026,Michael David,Office Chair,furniture,"Kano, Kano",South East,Peter,5,97500,487500
+ORD0120,03/05/2026,Ruth Sunday,Smartphone,Electronics,"Lagos, Lagos",South South,Ada,3,320000,960000
+ORD0121,26/04/2026,John Okafor,Microwave,Home Appliances," Ibadan, Oyo ",North Central,Grace,2,187500,375000
+ORD0122,20/05/2026,Ibrahim Ali,Blender,Home Appliances,"Kano, Kano",South East,Musa,7,80500,563500
+ORD0123,16/07/2026,Ruth Sunday,Blender,Home Appliances,"Minna, Niger",North West,Grace,4,83000,332000
+ORD0124,24/06/2026,Fatima Musa,Smartphone,Electronics,"Kano, Kano",South West,Chika,5,315000,1575000
+ORD0125,08/09/2026,Ruth Sunday,School Bag,Accessories,"Uyo, Akwa Ibom",South South,Peter,3,20500,61500
+ORD0126,2026-10-06,Daniel Eze,Notebook,Stationery,"Enugu, Enugu",South East,Musa,7,5000,35000
+ORD0127,30/04/2026,Daniel Eze,Office Chair,Furniture,"Uyo, Akwa Ibom",South West,Peter,7,90000,630000
+ORD0128,19/03/2026,Mary James,Printer Paper,Stationery,"Ibadan, Oyo",South South,David,8,3500,28000
+ORD0129,27/09/2026,Michael David,Smartphone,Electronics,"Kaduna, Kaduna",North Central,Grace,8,315000,2520000
+ORD0130,29/08/2026,Paul Obi,Printer Paper,STATIONERY,"Jos, Plateau",North Central,Amina,5,8500,42500
+ORD0131,01/10/2026,Esther John,Smartphone,Electronics,"Enugu, Enugu",South South,Peter,7,320000,2240000
+ORD0132,05/02/2026,Samuel Ade,Microwave,Home Appliances," Lagos, Lagos ",South East,Tunde,4,185000,740000
+ORD0133,21/02/2026,Michael David,Printer Paper,  Stationery  ,"Abuja, FCT",South South,Chika,8,8500,68000
+ORD0134,29/01/2026,Daniel Eze,Laptop,Electronics,"Lagos, Lagos",North East,Amina,5,650000,3250000
+ORD0135,2026-07-30,Mary James,Headphones,Electronics,"Makurdi, Benue",South East,Tunde,3,45000,135000
+ORD0136,04/05/2026,Mary James,School Bag,accessories,"Ibadan, Oyo",South East,Musa,8,23000,184000
+ORD0137,11/05/2026,Fatima Musa,Blender,Home Appliances,"Kano, Kano",South West,Grace,1,80500,80500
+ORD0138,28/10/2026,Michael David,Smartphone,Electronics,"Kaduna, Kaduna",North East,Chika,5,322500,1612500
+ORD0139,16/07/2026,Samuel Ade,Blender,Home Appliances,"Kano, Kano",North West,Amina,8,73000,584000
+ORD0140,"Jun 01, 2026",Hassan Ibrahim,School Bag,Accessories,"Enugu, Enugu",South East,Amina,5,13000,65000
+ORD0141,26/01/2026,Joy Emmanuel,Desk,Furniture,"Lagos, Lagos",South East,Musa,8,150000,1200000
+ORD0142,08/04/2026,Esther John,School Bag,Accessories,"Enugu, Enugu",North West,Tunde,5,18000,90000
+ORD0143,18/01/2026,John Okafor,Laptop,ELECTRONICS," Kano, Kano ",South West,Chika,6,650000,3900000
+ORD0144,2026-04-13,Daniel Eze,Notebook,Stationery,"Ibadan, Oyo",North West,Chika,3,7500,22500
+ORD0145,01/06/2026,Ibrahim Ali,Headphones,Electronics,"Kano, Kano",South West,Tunde,6,40000,240000
+ORD0146,23/07/2026,Joy Emmanuel,Headphones,Electronics,"Makurdi, Benue",South South,Amina,6,40000,240000
+ORD0147,05/03/2026,Esther John,Laptop,Electronics,"Kano, Kano",South East,Chika,8,650000,5200000
+ORD0148,10/07/2026,Ibrahim Ali,School Bag,Accessories,"Ibadan, Oyo",South South,Ada,2,18000,36000
+ORD0149,24/04/2026,Michael David,School Bag,Accessories,"Minna, Niger",North East,Chika,2,20500,41000
+ORD0150,24/01/2026,Ibrahim Ali,Printer Paper,Stationery,"Abuja, FCT",North West,Tunde,1,8500,8500
+ORD0151,11/03/2026,Daniel Eze,Smartphone,Electronics,"Makurdi, Benue",South East,Amina,7,322500,2257500
+ORD0152,20/02/2026,Grace Peter,School Bag,  Accessories  ,"Jos, Plateau",South West,Chika,8,23000,184000
+ORD0153,2026-08-16,Hassan Ibrahim,Laptop,electronics,"Enugu, Enugu",North West,David,8,650000,5200000
+ORD0154,"Jul 03, 2026",Fatima Musa,Smartphone,Electronics," Enugu, Enugu ",South East,Musa,1,322500,322500
+ORD0155,19/04/2026,Joy Emmanuel,Smartphone,Electronics,"Kaduna, Kaduna",North Central,David,1,315000,315000
+ORD0156,16/04/2026,Samuel Ade,Office Chair,FURNITURE,"Jos, Plateau",South East,Musa,2,100000,200000
+ORD0157,02/01/2026,Mary James,Office Chair,Furniture,"Enugu, Enugu",North West,Chika,5,95000,475000
+ORD0158,14/01/2026,Daniel Eze,Headphones,Electronics,"Abuja, FCT",South South,Musa,3,40000,120000
+ORD0159,31/03/2026,Mary James,School Bag,Accessories,"Enugu, Enugu",North Central,Amina,5,13000,65000
+ORD0160,02/02/2026,Joy Emmanuel,Microwave,Home Appliances,"Abuja, FCT",South South,David,8,187500,1500000
+ORD0161,20/08/2026,Aisha Bello,Microwave,Home Appliances,"Uyo, Akwa Ibom",North Central,Chika,4,190000,760000
+ORD0162,2026-09-03,Esther John,Blender,Home Appliances,"Lagos, Lagos",North Central,Tunde,7,80500,563500
+ORD0163,11/02/2026,Mary James,Blender,Home Appliances,"Kaduna, Kaduna",North Central,Tunde,6,83000,498000
+ORD0164,27/10/2026,Paul Obi,Headphones,Electronics,"Kano, Kano",South East,Chika,6,47500,285000
+ORD0165,09/08/2026,Hassan Ibrahim,Blender,Home Appliances," Minna, Niger ",South East,Musa,2,73000,146000
+ORD0166,31/07/2026,Grace Peter,Printer Paper,Stationery,"Kaduna, Kaduna",North West,Amina,6,11000,66000
+ORD0167,10/06/2026,Mary James,Smartphone,Electronics,"Enugu, Enugu",South West,Peter,5,320000,1600000
+ORD0168,"Feb 17, 2026",Michael David,Smartphone,Electronics,"Abuja, FCT",North Central,David,7,315000,2205000
+ORD0169,28/10/2026,Grace Peter,Headphones,ELECTRONICS,"Minna, Niger",North Central,David,6,40000,240000
+ORD0170,09/06/2026,Paul Obi,Printer Paper,stationery,"Lagos, Lagos",North East,Musa,6,3500,21000
+ORD0171,2026-02-25,Daniel Eze,Headphones,  Electronics  ,"Kaduna, Kaduna",North West,Tunde,6,50000,300000
+ORD0172,08/08/2026,Esther John,Desk,Furniture,"Uyo, Akwa Ibom",North West,Chika,1,155000,155000
+ORD0173,08/06/2026,Aisha Bello,Laptop,Electronics,"Jos, Plateau",North East,Grace,6,650000,3900000
+ORD0174,25/07/2026,Michael David,Headphones,Electronics,"Uyo, Akwa Ibom",South South,Ada,2,45000,90000
+ORD0175,12/07/2026,Daniel Eze,Smartphone,Electronics,"Minna, Niger",North West,Grace,7,322500,2257500
+ORD0176,16/06/2026,Mary James,Notebook,Stationery," Kano, Kano ",South South,Grace,2,-2500,-5000
+ORD0177,11/02/2026,Esther John,School Bag,Accessories,"Lagos, Lagos",South South,Amina,5,20500,102500
+ORD0178,01/08/2026,Joy Emmanuel,Blender,Home Appliances,"Uyo, Akwa Ibom",South West,Tunde,5,78000,390000
+ORD0179,26/05/2026,Esther John,Notebook,Stationery,"Ibadan, Oyo",North Central,Chika,8,7500,60000
+ORD0180,2026-01-29,Fatima Musa,Laptop,Electronics,"Makurdi, Benue",South West,Musa,1,650000,650000
+ORD0181,17/06/2026,Ibrahim Ali,Headphones,Electronics,"Kano, Kano",North East,Amina,2,40000,80000
+ORD0182,"Sep 30, 2026",Ruth Sunday,Headphones,ELECTRONICS,"Jos, Plateau",South West,David,4,50000,200000
+ORD0183,22/01/2026,Ibrahim Ali,Smartphone,Electronics,"Ibadan, Oyo",South South,Tunde,7,315000,2205000
+ORD0184,21/10/2026,Fatima Musa,Notebook,Stationery,"Uyo, Akwa Ibom",South West,Tunde,7,5000,35000
+ORD0185,29/03/2026,John Okafor,Printer Paper,Stationery,"Lagos, Lagos",North East,Amina,8,8500,68000
+ORD0186,25/07/2026,Hassan Ibrahim,Smartphone,Electronics,"Makurdi, Benue",South West,Chika,2,322500,645000
+ORD0187,28/03/2026,Esther John,Notebook,stationery," Makurdi, Benue ",North East,Tunde,2,7500,15000
+ORD0188,28/06/2026,Samuel Ade,Microwave,Home Appliances,"Minna, Niger",North West,Tunde,6,185000,1110000
+ORD0189,2026-03-30,Mary James,Headphones,Electronics,"Kano, Kano",North West,Peter,3,40000,120000
+ORD0190,18/08/2026,Mary James,Blender,  Home Appliances  ,"Uyo, Akwa Ibom",South East,Peter,6,78000,468000
+ORD0191,05/06/2026,Aisha Bello,Smartphone,Electronics,"Kaduna, Kaduna",South West,David,5,325000,1625000
+ORD0192,25/08/2026,Aisha Bello,Microwave,Home Appliances,"Abuja, FCT",North East,David,8,180000,1440000
+ORD0193,16/02/2026,Paul Obi,Desk,Furniture,"Abuja, FCT",South South,Ada,7,152500,1067500
+ORD0194,07/04/2026,Ibrahim Ali,Blender,Home Appliances,"Uyo, Akwa Ibom",South South,Grace,6,83000,498000
+ORD0195,25/06/2026,Esther John,Laptop,ELECTRONICS,"Kaduna, Kaduna",North Central,Grace,2,655000,1310000
+ORD0196,"Aug 13, 2026",Ruth Sunday,Laptop,Electronics,"Makurdi, Benue",South South,Grace,8,655000,5240000
+ORD0197,18/07/2026,Esther John,Notebook,Stationery,"Enugu, Enugu",North East,Ada,7,2500,17500
+ORD0198,2026-02-18,Fatima Musa,Notebook,Stationery," Abuja, FCT ",North East,Grace,7,2500,17500
+ORD0199,14/03/2026,Esther John,Notebook,Stationery,"Abuja, FCT",South East,Amina,6,2500,15000
+ORD0200,13/02/2026,Grace Peter,Headphones,Electronics,"Uyo, Akwa Ibom",South South,David,5,50000,250000
+ORD0201,05/08/2026,Daniel Eze,Headphones,Electronics,"Minna, Niger",North Central,Chika,6,40000,240000
+ORD0202,06/09/2026,Mary James,Headphones,Electronics,"Makurdi, Benue",North East,Grace,4,45000,180000
+ORD0203,17/09/2026,Joy Emmanuel,Smartphone,Electronics,"Kano, Kano",North Central,Grace,1,320000,320000
+ORD0204,25/03/2026,Joy Emmanuel,School Bag,accessories,"Ibadan, Oyo",North West,Grace,3,23000,69000
+ORD0205,06/07/2026,Paul Obi,Blender,Home Appliances,"Lagos, Lagos",South West,Chika,4,80500,322000
+ORD0206,03/05/2026,Hassan Ibrahim,Blender,Home Appliances,"Makurdi, Benue",South East,Musa,5,80500,402500
+ORD0207,2026-08-25,Ruth Sunday,Notebook,Stationery,"Uyo, Akwa Ibom",South West,Amina,5,5000,25000
+ORD0208,12/03/2026,Esther John,Headphones,ELECTRONICS,"Makurdi, Benue",South East,Peter,5,40000,200000
+ORD0209,22/09/2026,John Okafor,Notebook,  Stationery  ," Minna, Niger ",North Central,Grace,2,2500,5000
+ORD0210,"Mar 17, 2026",Samuel Ade,Desk,Furniture,"Kaduna, Kaduna",South East,Peter,7,145000,1015000
+ORD0211,28/01/2026,Daniel Eze,Notebook,Stationery,"Lagos, Lagos",South West,Musa,7,7500,52500
+ORD0212,25/04/2026,John Okafor,Printer Paper,Stationery,"Abuja, FCT",North East,David,1,8500,8500
+ORD0213,27/05/2026,Joy Emmanuel,Headphones,Electronics,"Jos, Plateau",North Central,Peter,8,45000,360000
+ORD0214,10/02/2026,Samuel Ade,Blender,Home Appliances,"Uyo, Akwa Ibom",North Central,Grace,1,78000,78000
+ORD0215,05/08/2026,Samuel Ade,Microwave,Home Appliances,"Uyo, Akwa Ibom",South East,Chika,2,185000,370000
+ORD0216,2026-08-03,John Okafor,Smartphone,Electronics,"Lagos, Lagos",North West,Peter,8,315000,2520000
+ORD0217,21/09/2026,Fatima Musa,School Bag,Accessories,"Minna, Niger",North Central,Amina,4,18000,72000
+ORD0218,04/05/2026,Esther John,Laptop,Electronics,"Uyo, Akwa Ibom",North East,Tunde,7,650000,4550000
+ORD0219,27/09/2026,Hassan Ibrahim,Microwave,Home Appliances,"Enugu, Enugu",North Central,Peter,1,187500,187500
+ORD0220,10/05/2026,Joy Emmanuel,Laptop,Electronics," Ibadan, Oyo ",North East,Tunde,1,650000,650000
+ORD0221,23/02/2026,Aisha Bello,Notebook,STATIONERY,"Makurdi, Benue",South South,David,6,2500,15000
+ORD0222,31/03/2026,Esther John,Microwave,Home Appliances,"Enugu, Enugu",South South,Grace,8,187500,1500000
+ORD0223,23/08/2026,Samuel Ade,Headphones,Electronics,"Abuja, FCT",South South,Ada,1,45000,45000
+ORD0224,"Jun 08, 2026",Ibrahim Ali,Office Chair,Furniture,"Lagos, Lagos",North East,Chika,7,100000,700000
+ORD0225,2026-07-02,Fatima Musa,Laptop,Electronics,"Makurdi, Benue",North East,Tunde,1,650000,650000
+ORD0226,14/08/2026,Mary James,Notebook,Stationery,"Ibadan, Oyo",South West,Peter,7,2500,17500
+ORD0227,17/05/2026,John Okafor,Blender,Home Appliances,"Enugu, Enugu",South East,Amina,2,80500,161000
+ORD0228,31/05/2026,John Okafor,School Bag,  Accessories  ,"Jos, Plateau",South East,David,6,13000,78000
+ORD0229,07/08/2026,Daniel Eze,Desk,Furniture,"Kano, Kano",South West,Peter,3,152500,457500
+ORD0230,11/08/2026,John Okafor,Laptop,Electronics,"Enugu, Enugu",South East,Amina,5,645000,3225000
+ORD0231,23/03/2026,Hassan Ibrahim,Notebook,Stationery," Minna, Niger ",South South,Peter,1,2500,2500
+ORD0232,01/05/2026,Grace Peter,Laptop,Electronics,"Jos, Plateau",North Central,Ada,6,650000,3900000
+ORD0233,19/08/2026,Ibrahim Ali,School Bag,Accessories,"Jos, Plateau",South South,Tunde,6,18000,108000
+ORD0234,2026-07-07,Esther John,School Bag,ACCESSORIES,"Jos, Plateau",South East,Chika,7,18000,126000
+ORD0235,06/04/2026,Grace Peter,Office Chair,Furniture,"Abuja, FCT",North Central,Tunde,8,100000,800000
+ORD0236,17/08/2026,Fatima Musa,Desk,Furniture,"Kano, Kano",South South,Peter,4,155000,620000
+ORD0237,07/02/2026,Michael David,Office Chair,Furniture,"Abuja, FCT",North West,Peter,8,95000,760000
+ORD0238,"Jun 27, 2026",Ruth Sunday,Smartphone,electronics,"Enugu, Enugu",South South,Chika,2,325000,650000
+ORD0239,31/03/2026,Samuel Ade,Desk,Furniture,"Jos, Plateau",South South,Tunde,6,155000,930000
+ORD0240,10/09/2026,Ruth Sunday,Office Chair,Furniture,"Jos, Plateau",North West,David,1,95000,95000
+ORD0241,14/02/2026,Grace Peter,Blender,Home Appliances,"Minna, Niger",North West,Peter,2,78000,156000
+ORD0242,22/10/2026,Daniel Eze,Microwave,Home Appliances," Ibadan, Oyo ",South West,Tunde,2,185000,370000
+ORD0243,2026-09-22,Hassan Ibrahim,Blender,Home Appliances,"Kaduna, Kaduna",South South,Grace,6,78000,468000
+ORD0244,29/01/2026,Mary James,Headphones,Electronics,"Ibadan, Oyo",South East,Chika,2,50000,100000
+ORD0245,26/04/2026,Fatima Musa,Headphones,Electronics,"Jos, Plateau",North East,Tunde,6,50000,300000
+ORD0246,10/10/2026,Esther John,Desk,Furniture,"Makurdi, Benue",South South,Chika,5,150000,750000
+ORD0247,15/09/2026,Paul Obi,School Bag,ACCESSORIES,"Minna, Niger",North Central,Grace,3,23000,69000
+ORD0248,22/06/2026,John Okafor,Headphones,Electronics,"Uyo, Akwa Ibom",South South,Ada,1,40000,40000
+ORD0249,18/04/2026,Esther John,School Bag,Accessories,"Kano, Kano",South South,Ada,7,23000,161000
+ORD0250,04/06/2026,Joy Emmanuel,Blender,Home Appliances,"Minna, Niger",North East,Amina,8,78000,624000
+ORD0251,31/01/2026,Grace Peter,Desk,Furniture,"Kaduna, Kaduna",North Central,Peter,3,152500,457500
+ORD0252,2026-03-15,Michael David,Blender,Home Appliances,"Makurdi, Benue",North East,David,6,78000,468000
+ORD0253,21/09/2026,Samuel Ade,Printer Paper,Stationery," Jos, Plateau ",North East,Peter,2,8500,17000
+ORD0254,07/05/2026,Aisha Bello,Smartphone,Electronics,"Kano, Kano",South West,Chika,3,315000,945000
+ORD0255,08/05/2026,Paul Obi,Printer Paper,stationery,"Uyo, Akwa Ibom",South West,David,3,8500,25500
+ORD0256,21/09/2026,Fatima Musa,Office Chair,Furniture,"Jos, Plateau",South West,Peter,8,97500,780000
+ORD0257,16/09/2026,Samuel Ade,Laptop,Electronics,"Abuja, FCT",South West,David,8,650000,5200000
+ORD0258,11/09/2026,Ruth Sunday,Laptop,Electronics,"Lagos, Lagos",North East,Ada,8,650000,5200000
+ORD0259,16/05/2026,Daniel Eze,Smartphone,Electronics,"Ibadan, Oyo",North West,Ada,6,322500,1935000
+ORD0260,15/10/2026,Ruth Sunday,Printer Paper,STATIONERY,"Lagos, Lagos",South East,Chika,4,8500,34000
+ORD0261,2026-08-19,Esther John,Smartphone,Electronics,"Ibadan, Oyo",South East,Tunde,5,325000,1625000
+ORD0262,11/07/2026,Daniel Eze,Headphones,Electronics,"Abuja, FCT",South West,Grace,6,50000,300000
+ORD0263,25/07/2026,Aisha Bello,Office Chair,Furniture,"Uyo, Akwa Ibom",South East,Grace,1,90000,90000
+ORD0264,22/08/2026,Ruth Sunday,Notebook,Stationery," Kaduna, Kaduna ",South East,Grace,3,7500,22500
+ORD0265,25/03/2026,Michael David,Notebook,Stationery,"Uyo, Akwa Ibom",North East,Chika,7,7500,52500
+ORD0266,"Sep 18, 2026",Fatima Musa,School Bag,  Accessories  ,"Enugu, Enugu",South East,Peter,8,23000,184000
+ORD0267,26/02/2026,Fatima Musa,Laptop,Electronics,"Enugu, Enugu",North East,Ada,7,655000,4585000
+ORD0268,24/10/2026,Paul Obi,School Bag,Accessories,"Kaduna, Kaduna",North East,Peter,4,13000,52000
+ORD0269,14/07/2026,Aisha Bello,Headphones,Electronics,"Minna, Niger",South South,Tunde,3,45000,135000
+ORD0270,2026-06-10,Grace Peter,Office Chair,Furniture,"Lagos, Lagos",South West,Musa,7,95000,665000
+ORD0271,30/08/2026,Ruth Sunday,Printer Paper,Stationery,"Minna, Niger",South East,Musa,1,8500,8500
+ORD0272,02/09/2026,Mary James,Microwave,home appliances,"Enugu, Enugu",South South,Peter,7,185000,1295000
+ORD0273,01/07/2026,Ibrahim Ali,Microwave,HOME APPLIANCES,"Enugu, Enugu",South East,Musa,5,190000,950000
+ORD0274,02/06/2026,Joy Emmanuel,Office Chair,Furniture,"Kano, Kano",South East,Chika,4,95000,380000
+ORD0275,03/09/2026,Joy Emmanuel,Office Chair,Furniture," Kaduna, Kaduna ",North East,Chika,6,100000,600000
+ORD0276,06/10/2026,Hassan Ibrahim,Desk,Furniture,"Abuja, FCT",South East,David,7,152500,1067500
+ORD0277,28/05/2026,Ibrahim Ali,Headphones,Electronics,"Kano, Kano",North Central,Chika,2,45000,90000
+ORD0278,03/10/2026,Michael David,Blender,Home Appliances,"Makurdi, Benue",North West,Chika,5,83000,415000
+ORD0279,2026-10-28,Aisha Bello,Headphones,Electronics,"Abuja, FCT",South East,Musa,4,45000,180000
+ORD0280,"Jul 31, 2026",John Okafor,Office Chair,Furniture,"Lagos, Lagos",North Central,Grace,6,97500,585000
+ORD0281,28/07/2026,Esther John,Laptop,Electronics,"Minna, Niger",North West,Musa,8,652500,5220000
+ORD0282,31/01/2026,Samuel Ade,Desk,Furniture,"Enugu, Enugu",North East,Ada,2,155000,310000
+ORD0283,19/01/2026,Mary James,Headphones,Electronics,"Ibadan, Oyo",North West,Chika,7,47500,332500
+ORD0284,18/10/2026,Fatima Musa,Laptop,Electronics,"Lagos, Lagos",North East,Peter,2,650000,1300000
+ORD0285,10/03/2026,Samuel Ade,Microwave,  Home Appliances  ,"Minna, Niger",South West,Tunde,8,185000,1480000
+ORD0286,23/08/2026,Aisha Bello,Notebook,STATIONERY," Jos, Plateau ",South South,David,5,2500,12500
+ORD0287,09/04/2026,Hassan Ibrahim,Desk,Furniture,"Uyo, Akwa Ibom",South South,Amina,3,155000,465000
+ORD0288,2026-02-14,Mary James,Printer Paper,Stationery,"Minna, Niger",North East,Grace,7,3500,24500
+ORD0289,04/01/2026,Samuel Ade,Blender,home appliances,"Enugu, Enugu",North West,Peter,5,80500,402500
+ORD0290,26/10/2026,Esther John,Desk,Furniture,"Enugu, Enugu",North East,David,1,150000,150000
+ORD0291,02/03/2026,Mary James,Office Chair,Furniture,"Lagos, Lagos",South South,Amina,8,95000,760000
+ORD0292,02/03/2026,Paul Obi,Microwave,Home Appliances,"Kano, Kano",South South,Musa,5,185000,925000
+ORD0293,20/03/2026,Daniel Eze,Office Chair,Furniture,"Jos, Plateau",South West,Amina,8,100000,800000
+ORD0294,"Apr 22, 2026",Hassan Ibrahim,Microwave,Home Appliances,"Kaduna, Kaduna",South East,Tunde,4,190000,760000
+ORD0295,05/07/2026,John Okafor,Microwave,Home Appliances,"Kaduna, Kaduna",South East,Ada,2,190000,380000
+ORD0296,21/10/2026,Daniel Eze,Microwave,Home Appliances,"Minna, Niger",North West,Peter,3,185000,555000
+ORD0297,2026-10-26,Ruth Sunday,Smartphone,Electronics," Makurdi, Benue ",South South,Peter,8,315000,2520000
+ORD0298,20/09/2026,Paul Obi,Laptop,Electronics,"Kaduna, Kaduna",North West,Ada,7,652500,4567500
+ORD0299,07/06/2026,Fatima Musa,Microwave,HOME APPLIANCES,"Kaduna, Kaduna",South South,Ada,1,187500,187500
+ORD0300,24/01/2026,Michael David,Office Chair,Furniture,"Uyo, Akwa Ibom",North Central,Tunde,7,95000,665000
